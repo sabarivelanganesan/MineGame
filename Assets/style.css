@@ -1,0 +1,26 @@
+td{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    margin: 0em;
+    padding: 0em;
+}
+table{
+    margin: 0em;
+    padding: 0em;
+}
+.mine{
+    background-color: brown;
+    color:rgb(214, 172, 117);
+}
+tbody{
+    background-color: rgb(10, 240, 10);
+    color: red;
+}
+td{
+    border: 1px solid lightgreen;
+}
+.png-size{
+    height: 25px;
+    width: 25px;
+}
